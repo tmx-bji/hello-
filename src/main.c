@@ -28,6 +28,6 @@
 int
 main(void)
 {
-  printf("Hello ARM World!!!!!2" "\n");
+  printf("Hello!!!!!" "\n");
   return 0;
 }
